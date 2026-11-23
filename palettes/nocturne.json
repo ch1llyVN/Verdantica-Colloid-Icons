@@ -1,0 +1,134 @@
+{
+  "name": "Nocturne",
+  "mode": "dark",
+  "neutral": {
+    "bg_0": "#241D18",
+    "bg_1": "#1D1814",
+    "bg_2": "#17130F",
+    "surface_0": "#30251E",
+    "surface_1": "#3C2E24",
+    "surface_2": "#4A392C",
+    "overlay_0": "#655548",
+    "overlay_1": "#806D59",
+    "overlay_2": "#9B866E",
+    "subtext_0": "#B29F86",
+    "subtext_1": "#D3C2A8",
+    "text": "#F0E5D2"
+  },
+  "accents": {
+    "black": {
+      "hex": "#19140F",
+      "name": "Ink Shadow"
+    },
+    "red": {
+      "hex": "#CB7968",
+      "name": "Terracotta"
+    },
+    "green": {
+      "hex": "#A3C783",
+      "name": "Botanical"
+    },
+    "yellow": {
+      "hex": "#D0AD70",
+      "name": "Antique Brass"
+    },
+    "blue": {
+      "hex": "#91ADC3",
+      "name": "Slate Blue"
+    },
+    "magenta": {
+      "hex": "#B49AB5",
+      "name": "Mulberry"
+    },
+    "cyan": {
+      "hex": "#8DBBB0",
+      "name": "Patina"
+    },
+    "white": {
+      "hex": "#E9DCC5",
+      "name": "Newsprint"
+    },
+    "bright_black": {
+      "hex": "#665749",
+      "name": "Graphite"
+    },
+    "bright_red": {
+      "hex": "#E19A85",
+      "name": "Rosewood"
+    },
+    "bright_green": {
+      "hex": "#B9D99B",
+      "name": "Spring Leaf"
+    },
+    "bright_yellow": {
+      "hex": "#E2C58B",
+      "name": "Toasted Gold"
+    },
+    "bright_blue": {
+      "hex": "#B1C8D9",
+      "name": "Morning Blue"
+    },
+    "bright_magenta": {
+      "hex": "#CEB5CC",
+      "name": "Heather"
+    },
+    "bright_cyan": {
+      "hex": "#B1D5C8",
+      "name": "Mist"
+    },
+    "bright_white": {
+      "hex": "#F6EBDD",
+      "name": "Ivory"
+    }
+  },
+  "bonus": {
+    "olive": {
+      "hex": "#858B58",
+      "name": "Olive Branch"
+    },
+    "moss": {
+      "hex": "#697B50",
+      "name": "Forest Moss"
+    },
+    "fern": {
+      "hex": "#A1B58A",
+      "name": "Fern Green"
+    },
+    "sage": {
+      "hex": "#AAB49A",
+      "name": "Dusty Sage"
+    },
+    "copper": {
+      "hex": "#AD7656",
+      "name": "Burnished Copper"
+    },
+    "clay": {
+      "hex": "#B77D69",
+      "name": "Fired Clay"
+    },
+    "coffee": {
+      "hex": "#C6A17B",
+      "name": "Coffee Cream"
+    },
+    "rose": {
+      "hex": "#BB8E8A",
+      "name": "Dried Rose"
+    },
+    "lavender": {
+      "hex": "#A99BB2",
+      "name": "Dried Lavender"
+    },
+    "sky": {
+      "hex": "#91AAB0",
+      "name": "Faded Sky"
+    },
+    "cream": {
+      "hex": "#E4D2B5",
+      "name": "Oat Cream"
+    },
+    "brass": {
+      "hex": "#B39A67",
+      "name": "Old Brass"
+    }
+  }
+}
